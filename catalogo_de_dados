@@ -1,0 +1,13 @@
+# Catálogo de Dados
+
+Este documento descreve os campos presentes no dataset `imdb_top_5000_tv_shows.csv`.
+
+## Tabela: TV_Shows
+
+- **title**: Texto – Nome do TV show.
+- **year**: Inteiro – Ano de lançamento ou exibição (ex.: 1950 a 2023).
+- **imdbRating**: Float – Nota do IMDB (valor entre 0 e 10).
+- **votes**: Inteiro – Número total de votos recebidos.
+- **genres**: Texto – Categorias do TV show, separadas por vírgula (ex.: Drama, Comédia).
+- **runtime**: Inteiro – Duração do programa em minutos.
+- **...**: Outros campos podem existir conforme a origem do dataset.
