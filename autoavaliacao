@@ -1,0 +1,18 @@
+# Autoavaliação
+
+## Alcance dos Objetivos
+
+- Foram respondidas as principais perguntas, como a frequência dos gêneros e a relação entre nota e número de votos.
+- Algumas questões, como a evolução dos ratings ao longo dos anos, podem ser aprofundadas em análises futuras.
+
+## Dificuldades Encontradas
+
+- Tratamento e separação de múltiplos gêneros na mesma coluna.
+- Limpeza de dados faltantes ou inconsistentes.
+- Adaptação do pipeline para um ambiente de execução (local ou cloud).
+
+## Melhorias Futuras
+
+- Desenvolver dashboards interativos para uma visualização dinâmica.
+- Integrar outros conjuntos de dados para enriquecer a análise.
+- Implementar análises preditivas para identificar fatores determinantes do sucesso dos TV shows.
